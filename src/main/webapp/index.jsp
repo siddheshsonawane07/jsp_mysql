@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Assignment_6</title>
 </head>
 <body>
 <table border="1">
